@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "kretest827.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 11
+          "lineNumber": 3,
+          "column": 15
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -59,7 +59,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1594035509621
+    "lastSave": 1594035858033
   },
   "VCS_STATE": {
     "provider": "GitHub",
