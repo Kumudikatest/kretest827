@@ -1,0 +1,71 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "41d28a2c-f1d8-468b-b6a5-e523fca0797f": {
+        "id": "41d28a2c-f1d8-468b-b6a5-e523fca0797f",
+        "parent": null,
+        "name": "kretest827.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "kretest827.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 11
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "kretest827"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "41d28a2c-f1d8-468b-b6a5-e523fca0797f"
+    ],
+    "currentFileId": "41d28a2c-f1d8-468b-b6a5-e523fca0797f",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.0",
+    "projectName": "kretest827",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1594035509621
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "kretest827",
+      "url": "https://github.com/Kumudikatest/kretest827"
+    }
+  }
+}
